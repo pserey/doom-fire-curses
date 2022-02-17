@@ -7,8 +7,6 @@ I've read about the algorithm but never tought of implementing it until I saw [@
 
 My first contact with the algorithm was [here](https://fabiensanglard.net/doom_fire_psx/) in Fabien Sanglard's Website.
 
-Still pending some bug fixes like the "division" in the fire leaving the lower right corner.
-
 # Running in your terminal
 For getting it running in your terminal make sure to zoom out, else it might return an error!
 
